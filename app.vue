@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+<!--    <NuxtWelcome />-->
+    This is Nuxt starter project.
   </div>
 </template>
